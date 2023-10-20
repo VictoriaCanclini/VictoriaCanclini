@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Victoria</h1>
-<h3 align="center">A passionate FullStack developer from Argentina</h3>
+<h1 align="center">Hi 👋, I'm Victoria Canclini</h1>
+<h3 align="center">A passionate full-Stack developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victoriacanclini&label=Profile%20views&color=0e75b6&style=flat" alt="victoriacanclini" /> </p>
 
@@ -7,7 +7,11 @@
 
 - 🔭 I’m currently working on **STUDIO BY M**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js and Mongo**
+
+- 👯 I’m looking to collaborate on **challenging projects**
+
+- 📫 How to reach me **vikicanclini@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriacanclini&show_icons=true&locale=en&layout=compact" alt="victoriacanclini" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victoriacanclini&show_icons=true&locale=en" alt="victoriacanclini" /></p>
+
 
